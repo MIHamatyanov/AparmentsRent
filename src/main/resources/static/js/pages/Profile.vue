@@ -27,7 +27,7 @@
                         </v-list>
                     </template>
 
-                    <v-divider></v-divider>
+                    <v-divider/>
 
                     <v-list
                             nav

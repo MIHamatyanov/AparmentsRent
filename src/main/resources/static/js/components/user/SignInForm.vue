@@ -197,7 +197,7 @@
         },
         mounted() {
             if (this.$route.query.needLogin === '1') {
-                this.dialog = true
+                this.dialog = true;
             }
         }
     }
